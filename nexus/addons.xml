@@ -109,7 +109,7 @@
       </assets>
     </extension>
   </addon>
-  <addon id="repo.kodirepo" name="KODI REPO BR" version="0.0.2" provider-name="Joel">
+  <addon id="repo.kodirepo" name="KODI REPO BR" version="0.0.3" provider-name="Joel">
     <requires>
       <import addon="xbmc.addon" version="12.0.0"/>
     </requires>
