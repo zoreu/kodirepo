@@ -204,4 +204,19 @@
       </assets>
     </extension>
   </addon>
+  <addon id="plugin.video.twovip" name="[COLOR blue]TWO[/COLOR][COLOR yellow]VIP[/COLOR]" version="1.9.3" provider-name="[COLOR red]NandoPlayTv[/COLOR][COLOR blue]TWO ADDON[/COLOR]">
+    <extension point="xbmc.python.pluginsource" library="default.py">
+      <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <summary/>
+      <language>en</language>
+      <description/>
+      <platform>all</platform>
+      <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+      </assets>
+    </extension>
+  </addon>
 </addons>
